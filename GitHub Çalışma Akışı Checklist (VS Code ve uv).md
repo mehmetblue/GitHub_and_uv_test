@@ -1,4 +1,3 @@
-````md
 # GitHub Çalışma Akışı Checklist (VS Code + uv)
 
 > Amaç: Repoyu klonla → ortamı kur → **feature branch**’te çalış → kalite kontrolleri → commit/push → PR → merge → branch temizliği.
@@ -250,3 +249,4 @@ Beklenen: `* feat/mcp`
 
 ```
 ```
+
