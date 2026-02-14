@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/ErsinOzturk10/AgenticCyberSense.git
-````
+```
 
 * [ ] Doğru klon linkini GitHub’dan al:
 
@@ -249,4 +249,5 @@ Beklenen: `* feat/mcp`
 
 ```
 ```
+
 
